@@ -1,3 +1,14 @@
+---
+title: AI Debate Arena
+emoji: 🎭
+colorFrom: blue
+colorTo: purple
+sdk: gradio
+sdk_version: 4.0.0
+app_file: app.py
+pinned: false
+---
+
 # 🎭 AI Debate Arena
 
 Watch two AI agents debate any topic using **Reflection Patterns** - they critique and improve their own arguments over 3 rounds!
