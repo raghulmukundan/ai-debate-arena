@@ -6,4 +6,4 @@ openai>=1.0.0
 python-dotenv>=1.0.0
 
 # Gradio (install last)
-gradio>=4.0.0
+gradio>=5.49.0
